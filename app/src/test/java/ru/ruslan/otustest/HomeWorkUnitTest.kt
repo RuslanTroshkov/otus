@@ -10,7 +10,7 @@ import java.lang.Exception
  *
  * See [testing documentation](http://d.android.com/tools/testing).
  */
-class ExampleUnitTest {
+class HomeWorkUnitTest {
 	private val quadraticEquation by lazy {
 		QuadraticEquation()
 	}
